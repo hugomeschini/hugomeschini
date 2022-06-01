@@ -22,6 +22,8 @@ My name is Hugo and I am a results-driven data scientist, seeking to use proven 
 
 - Machine Learning models - Store Sales prediction - https://github.com/hugomeschini/store_sales_prediction
 
+- Public library with functions created by the students - https://github.com/hugomeschini/omarpy
+
   
 ##
 
