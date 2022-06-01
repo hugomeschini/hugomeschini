@@ -16,7 +16,7 @@ My name is Hugo and I am a results-driven data scientist, seeking to use proven 
 
 #### Let's check out my projects!!!
 
-- Battleship Game -  
+- Battleship Game -  https://github.com/hugomeschini/battleship_game
 
 - Exploratory Data Analysis - Consumer Behaviour -  https://github.com/hugomeschini/EDA---Consumer-Behaviour
 
