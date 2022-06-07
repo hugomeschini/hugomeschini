@@ -24,6 +24,11 @@ My name is Hugo and I am a results-driven data scientist, seeking to use proven 
 
 - Public library with functions created by the students - https://github.com/hugomeschini/omarpy
 
+- Kaggle Competition (Laptop price prediction) - https://github.com/hugomeschini/Laptop_price_prediction_competition
+  
+- Kaggle Competition (Bank_credit_approval) - https://github.com/hugomeschini/bank_credit
+  
+- Kaggle Competition (Counting clips) - https://github.com/hugomeschini/Counting_clip
   
 ##
 
