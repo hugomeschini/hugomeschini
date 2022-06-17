@@ -30,6 +30,8 @@ My name is Hugo and I am a results-driven data scientist, seeking to use proven 
   
 - Kaggle Competition (Counting clips) - https://github.com/hugomeschini/Counting_clip
   
+- Webscraping exercise (BS4) - https://github.com/hugomeschini/webscraping_bs4
+  
 ##
 
 <div align="center">
