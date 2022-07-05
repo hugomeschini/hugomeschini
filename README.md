@@ -34,7 +34,7 @@ My name is Hugo and I am a results-driven data scientist, seeking to use proven 
 
 - Kaggle Competition (Titanic - Machine Learning) - https://github.com/hugomeschini/Titanic_Machine_Learning
 
-- Landscape Classifier (convolutional neural network) - 
+- Landscape Classifier (convolutional neural network) - https://github.com/hugomeschini/Landscape-Classifier
   
 ##
 
