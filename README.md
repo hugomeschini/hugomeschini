@@ -1,7 +1,7 @@
 ## Hello Guys !!!👋
 #### Welcome on board !!! 🚀
 ##
-My name is Hugo and I am a results-driven data scientist, seeking to use proven skills to deliver excellence solutions. Currently I specialize in Data Science, working mainly with data analysis (Python and SQL), machine learning models and business intelligence.
+My name is Hugo and I am a results-driven data scientist, seeking to use proven skills to deliver excellence solutions. Currently I specialize in Data Science, working mainly with data analysis (Python and SQL), machine learning models, business intelligence and deep learning.
 
 <div> 
   <a href="https://www.linkedin.com/in/hugomeschini" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -33,6 +33,8 @@ My name is Hugo and I am a results-driven data scientist, seeking to use proven 
 - Webscraping exercise (BS4) - https://github.com/hugomeschini/webscraping_bs4
 
 - Kaggle Competition (Titanic - Machine Learning) - https://github.com/hugomeschini/Titanic_Machine_Learning
+
+- Landscape Classifier (convolutional neural network) - 
   
 ##
 
